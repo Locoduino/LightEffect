@@ -65,4 +65,9 @@ Simulates two alternating traffic lights - The number of LEDs is necessarily 6 a
 # Examples 
 
 The library is supplied with 6 examples of use.
+Demo_LightEffect will show you the possibilities of the library.
+Traffic_Light simulates two traffic lights of a crossing.
+Alternating_Traffic_Light simulates two traffic lights of a working zone.
+Electric_sign manages two groups of LED, the first one for a HOTEL sign and the second one for a PARK sign.
+Work_lights reproduces moving flashing lights to prevent dangerous areas as work or merging lanes.
 
