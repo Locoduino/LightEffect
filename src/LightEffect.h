@@ -6,7 +6,6 @@
    or microcontroller digital outputs.
    Created by Christian Bezanger. October 3. 2020
    Modified October 3. 2020
-   Released in the public domain.
 */
 
 #ifndef LightEffect_h
