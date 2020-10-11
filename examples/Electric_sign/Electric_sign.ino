@@ -13,7 +13,6 @@
  *  to 3 times).
  *  ------------------------------------------------------
  *  Christian Bezanger - October 3 - 2020
- *  Released into the public domain
  */
  
 #include <LightEffect.h>
