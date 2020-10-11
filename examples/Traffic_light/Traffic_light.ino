@@ -8,7 +8,6 @@
  * other light effect.
  * ------------------------------------------------
  * Christian Bezanger - October 3 - 2020
- * Released in the public domain
  */
 
 #include <LightEffect.h>
