@@ -1,0 +1,17 @@
+LightEffect	KEYWORD1
+onAll	KEYWORD2
+onLeft	KEYWORD2
+onRight	KEYWORD2
+offAll	KEYWORD2
+offLeft	KEYWORD2
+offRight	KEYWORD2
+blinkAll	KEYWORD2
+movingFlashLeft	KEYWORD2
+movingFlashRight	KEYWORD2
+roundTrip	KEYWORD2
+shiftStopLeft	KEYWORD2
+shiftStopRight	KEYWORD2
+randomLightOn	KEYWORD2
+randomLightOff	KEYWORD2
+trafficLight	KEYWORD2
+alternatingTrafficLight	KEYWORD2
