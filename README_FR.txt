@@ -54,8 +54,8 @@ offRight()		éteint les LEDs de la gauche vers la droite de l'enseigne
 blinkAll(N)		fait clignoter l'ensemble des LEDs N fois (N est un entier)
 movingFlashLeft()	déplace un flash de la droite vers la gauche
 movingFlashRight()	déplace un flash de la gauche vers la droite
-roundTrip()		effet lumineux (deux LED faibles entourant une LED brillante) effectuant des 
-				aller-retours (nombre de LEDs conseillé au moins égal à six)
+roundTrip()		effet lumineux (deux LED faibles entourant une LED brillante) effectuant 
+			des aller-retours (nombre de LEDs conseillé au moins égal à six)
 shiftStopLeft()		les flash se déplacent de la droite vers la gauche et s'accumulent à 
 			gauche
 shiftStopRight()	les flash se déplacent de la gauche vers la droite et s'accumulent à 
