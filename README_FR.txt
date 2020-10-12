@@ -75,4 +75,18 @@ alternatingTrafficLight()	simule deux feux de circulation alternée - Le nombre 
 ------------
 La bibliothèque est fournie avec 6 exemples d'utilisation.
 
+Demo_LightEffect
+This example will show you the possibilities of the library.
+
+Traffic_Light
+This example simulates two traffic lights of a crossing.
+
+Alternating_Traffic_Light
+This example simulates two traffic lights of a working zone.
+
+Electric_sign
+This example manages two groups of LED, the first one for a HOTEL sign and the second one for a PARK sign.
+
+Work_lights
+This example reproduces moving flashing lights to prevent dangerous areas as work or merging lanes.
 
